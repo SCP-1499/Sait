@@ -1,7 +1,7 @@
 {
     "name": "Сайт о Твери",
     "short_name": "Тверь",
-    "start_url": "/sait.html",
+    "start_url": "/index.html",
     "display": "standalone",
     "theme_color": "#7B00D1",
     "background_color": "#ff00dd",
